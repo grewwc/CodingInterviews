@@ -1,0 +1,5 @@
+028: 字符串的排列
+030: 最小的K个数 (partition function is the key)
+033: 把数组排成最小的数
+034: 丑数
+036: 逆序对 (leetcode上的hard题，先跳过)

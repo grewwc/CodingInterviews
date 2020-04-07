@@ -1,0 +1,17 @@
+{
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++17 -I C:/Users/User/learn/leetcode/ -I C:/Users/User/tools/include $fileName C:/Users/User/learn/leetcode/utils.cpp -LC:/Users/User/tools/lib -ltools -o $fileNameWithoutExt  && $fileNameWithoutExt",
+    },
+    "files.associations": {
+        "*.gtpl": "html",
+        "vector": "cpp",
+        "map": "cpp",
+        "xtr1common": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "locale": "cpp",
+        "regex": "cpp",
+        "xlocale": "cpp",
+        "queue": "cpp"
+    }
+}

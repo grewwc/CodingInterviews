@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//  µ÷ÊÔ¿ª¹Ø
+//  ÂµÃ·ÃŠÃ”Â¿ÂªÂ¹Ã˜
 #define __tmain main
 
 #ifdef __tmain
